@@ -6,7 +6,6 @@ Default values are our own solar system (not to scale)
 To create custome solar system edit "planets.txt"
 
 Format for "Planets.txt" is:
- 
  sateliteName1 radius1 speed1 distanceFromParent1 parentName1
  sateliteName2 radius2 speed2 distanceFromParent2 parentName2
  sateliteName2 radius2 speed2 distanceFromParent2 parentName2
@@ -16,5 +15,4 @@ Format for "Planets.txt" is:
  all satelites must of a texture file named "sateliteName.jpg" in the res folder
  
  Dependencies:
- 
- Proccessing, PeasyCam
+  Proccessing, PeasyCam
