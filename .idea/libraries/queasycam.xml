@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="queasycam">
+    <CLASSES>
+      <root url="jar://D:/youtube/New folder/queasycam/library/queasycam.jar!/" />
+      <root url="file://D:/youtube/New folder/processing-3.5.3/core/library" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://D:/youtube/New folder/processing-3.5.3/core/library" recursive="false" />
+  </library>
+</component>

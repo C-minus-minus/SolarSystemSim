@@ -1,0 +1,10 @@
+sun 200 0 0 NULL
+mercury 30 .1 400 sun
+venus 40 .05 800 sun
+earth 60 .03 1200 sun
+mars 50 .02 1600 sun
+jupiter 150 .005 2400 sun
+saturn 110 .003 3200 sun
+uranus 90 .002 4000 sun
+neptune 80 .001 4800 sun
+moon 30 .1 200 earth
