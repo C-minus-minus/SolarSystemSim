@@ -7,9 +7,9 @@ To create custome solar system edit "planets.txt"
 
 FORMAT FOR "Planets.txt" IS:
 
- sateliteName1 radius1 speed1 distanceFromParent1 parentName1
- sateliteName2 radius2 speed2 distanceFromParent2 parentName2
- sateliteName2 radius2 speed2 distanceFromParent2 parentName2
+sateliteName1 radius1 speed1 distanceFromParent1 parentName1
+sateliteName2 radius2 speed2 distanceFromParent2 parentName2
+sateliteName2 radius2 speed2 distanceFromParent2 parentName2
  
  
  NOTES:
