@@ -17,5 +17,5 @@ Fly around in first person in your own custom solar system
  * Default textures are from NASA
   
 # DEPENDENCIES:
-  *Proccessing, 
-  *PeasyCam
+  * Proccessing
+  * PeasyCam
