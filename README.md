@@ -1,7 +1,7 @@
 # SolarSystemSim
 Fly around in first person in your own custom solar system
 
-# Screen shot
+# Screenshot
 
 ![Alt text](res/screenshot.PNG?raw=true "Optional Title")
 
