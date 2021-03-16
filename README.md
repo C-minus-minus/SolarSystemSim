@@ -6,8 +6,8 @@ Fly around in first person in your own custom solar system. Watch moons orbit pl
 ![Alt text](res/screenshot.PNG?raw=true)
 
 # controls
-     * Use WASD to move around, mouse moves camera. If you've ever played something like minecraft you'll be fine XD
-     * The 'p' key pauses all orbits so you can get a closer look at your star system.
+  * Use WASD to move around, mouse moves camera. If you've ever played something like minecraft you'll be fine XD
+  * The 'p' key pauses all orbits so you can get a closer look at your star system.
 
 # "Planets.txt":
  * To create custome solar system edit "planets.txt"
