@@ -11,10 +11,10 @@ Fly around in first person in your own custom solar system
  
  # NOTES:
  
-  *If parentName == NULL this will be the root of your system (aka the star)
- *All satelites must of a texture file named "sateliteName.jpg" in the res folder
-  *Default values are our own solar system (not to scale)
- *Default textures are from NASA
+  * If parentName == NULL this will be the root of your system (aka the star)
+ * All satelites must of a texture file named "sateliteName.jpg" in the res folder
+  * Default values are our own solar system (not to scale)
+ * Default textures are from NASA
   
 # DEPENDENCIES:
   *Proccessing, 
