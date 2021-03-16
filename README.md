@@ -20,6 +20,7 @@ FORMAT FOR "Planets.txt" IS:
   
   Default values are our own solar system (not to scale)
  
- 
+  Default textures are from NASA
+  
  DEPENDENCIES:
   Proccessing, PeasyCam
