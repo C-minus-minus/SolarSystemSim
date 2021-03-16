@@ -5,7 +5,7 @@ Fly around in first person in your own custom solar system. Watch moons orbit pl
 
 ![Alt text](res/screenshot.PNG?raw=true)
 
-# controls
+# Controls
   * Use WASD to move around, mouse moves camera. If you've ever played something like minecraft you'll be fine XD
   * The 'p' key pauses all orbits so you can get a closer look at your star system.
 
@@ -18,6 +18,6 @@ Fly around in first person in your own custom solar system. Watch moons orbit pl
       * Default values are our own solar system (not to scale, that would be boring)
       * The default textures are based on NASA elevation and imagery data. They were collected from Messenger, Viking and Cassini, and the Hubble Space Telescope.
   
-# DEPENDENCIES:
+# Dependencies:
   * Proccessing
   * PeasyCam
