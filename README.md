@@ -1,18 +1,17 @@
 # SolarSystemSim
 Fly around in first person in your own custom solar system
 
+#Screen shot
 ![Alt text](res/screenshot.PNG?raw=true "Optional Title")
 
 To create custome solar system edit "planets.txt"
 
-FORMAT FOR "Planets.txt" IS:
+# FORMAT FOR "Planets.txt" IS:
 
- sateliteName1 radius1 speed1 distanceFromParent1 parentName1
- sateliteName2 radius2 speed2 distanceFromParent2 parentName2
- sateliteName2 radius2 speed2 distanceFromParent2 parentName2
+ sateliteName radius speed distanceFromParent parentName
  
  
- NOTES:
+ # NOTES:
  
   If parentName == NULL this will be the root of your system (aka the star)
  
@@ -22,5 +21,5 @@ FORMAT FOR "Planets.txt" IS:
  
   Default textures are from NASA
   
- DEPENDENCIES:
+# DEPENDENCIES:
   Proccessing, PeasyCam
