@@ -2,6 +2,7 @@
 Fly around in first person in your own custom solar system
 
 #Screen shot
+
 ![Alt text](res/screenshot.PNG?raw=true "Optional Title")
 
 To create custome solar system edit "planets.txt"
