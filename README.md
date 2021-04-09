@@ -1,5 +1,5 @@
 # SolarSystemSim
-Fly around in first person in your own custom solar system. Watch moons orbit plants and planets orbit the sun
+Fly around in first person in your own custom solar system. Watch moons orbit planets and planets orbit the sun
 
 # Screenshot
 
